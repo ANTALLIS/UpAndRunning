@@ -1,3 +1,5 @@
+#!/bin/bash
+
 sudo apt -y install tmux
 sudo apt -y install htop
 sudo apt -y install git
