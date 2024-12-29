@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 sudo apt -y install tmux
 sudo apt -y install htop
